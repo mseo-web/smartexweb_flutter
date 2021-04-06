@@ -14,11 +14,18 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 ***
-###API
+
+##API
+
 Laravel API for this project: [https://laravel.smartexweb.kz/](https://laravel.smartexweb.kz/)
+
 ***
-<center>
-  <img align="left" src="assets/gif-images/54f9h6.gif" width="260" height="530">&nbsp;
-  <img src="assets/gif-images/54joy9.gif" width="260" height="530">
-</center>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="assets/gif-images/54f9h6.gif" width="260" height="530"/>&nbsp;
+    <img src="assets/gif-images/54joy9.gif" width="260" height="530"/>
+  </div>
+</div>
