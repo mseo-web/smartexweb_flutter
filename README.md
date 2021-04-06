@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ***
 
-##API
+## API
 
 Laravel API for this project: [https://laravel.smartexweb.kz/](https://laravel.smartexweb.kz/)
 
