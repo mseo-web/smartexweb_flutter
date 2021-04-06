@@ -403,7 +403,11 @@ class _PortfolioDetailState extends State<PortfolioDetail>
         ),
         SizedBox(height: 20),
         Text(
-          "${objectProject['description']}"
+          "${objectProject['description']}",
+          style: TextStyle(
+            fontSize: 14,
+            color: Color(0xff1d2635),
+          ),
         ),
       ],
     );
